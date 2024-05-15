@@ -1,0 +1,9 @@
+GigabitEthernet0/0     [up/up]
+    FE80::1:1
+    2001:DB8:ACAD:1::1
+GigabitEthernet0/1     [administratively down/down]
+    unassigned
+GigabitEthernet0/2     [administratively down/down]
+    unassigned
+GigabitEthernet0/3     [administratively down/down]
+    unassigned
